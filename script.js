@@ -14,8 +14,8 @@ var onBallet = function(name, partyColor) {
   return politican;
 };
 
-var candidate1 = onBallet("Warren", [11, 45, 132]);
-var candidate2 = onBallet("Sanders", [76, 210, 237]);
+var candidate1 = onBallet("Smith", [11, 45, 132]);
+var candidate2 = onBallet("Jones", [76, 210, 237]);
 
 candidate1.electionResults = [5,1,7,2,33,6,4,2,1,14,8,
 3,1,11,11,0,5,3,3,3,7,4,8,9,3,7,2,2,4,2,8,3,
